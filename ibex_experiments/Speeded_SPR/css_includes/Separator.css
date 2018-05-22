@@ -1,0 +1,15 @@
+.next-item-failure-message {
+    color: red;
+    font-size:60;
+    float:center;
+}
+.next-item-message {
+    font-style: italic;
+    font-size:60;
+    float:center;
+}
+.next-item-slow-message {
+	font-style: bold;
+	font-size:60;
+	float:center;
+}
