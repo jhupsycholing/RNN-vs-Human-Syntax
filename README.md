@@ -6,4 +6,3 @@ Code for online human experiments in /ibex_experiments. To run experiments, go t
 Code for training RNNs: https://github.com/TalLinzen/rnn_agreement
 
 
-## This repo is still being put together and will be filled completely soon
